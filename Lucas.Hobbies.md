@@ -1,7 +1,7 @@
 <h1>Lucas Hobbies</h1>
 
-1.s
-2.s
-3.e
-4.t
-5.f
+1.Gaming
+2.Musik
+3.Madlavning
+4.Snekker
+5.træning
