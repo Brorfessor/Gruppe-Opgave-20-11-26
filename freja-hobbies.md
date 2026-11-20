@@ -1,4 +1,4 @@
-<h1>Mine hobbies:</h1>
+<h2> Mine hobbies</h2>
 
 - at male
 - spille spil
